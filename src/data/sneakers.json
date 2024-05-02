@@ -1,7 +1,7 @@
 [
     {
-        "name":"Adidas Campus 00s Core Black",
-        "image": "",
+        "name":"Bapesta Black 2022",
+        "image": "/sneakers/bapesta.png",
         "price": 799.0
     },
     {
@@ -10,28 +10,28 @@
         "price": 0.0
     },
     {
-        "name":"Air Jordan 4 Black Cat",
-        "image": "/sneakers/blackcat.png",
+        "name":"Air Jordan 4 Military Blue",
+        "image": "/sneakers/militaryblue.png",
         "price": 0.0
     },
     {
-        "name":"",
-        "image": "/sneakers/",
+        "name":"Nike Dunk Low Clear Jade",
+        "image": "/sneakers/clearjade.png",
         "price": 0.0
     },
     {
-        "name":"",
-        "image": "/sneakers/",
+        "name":"Air Jordan 4 Deep Royal Blue",
+        "image": "/sneakers/deeproyalblue.png",
         "price": 0.0
     },
     {
-        "name":"",
-        "image": "/sneakers/",
+        "name":"Rayssa Leax x Nike Dunk",
+        "image": "/sneakers/rayssaleal.png",
         "price": 0.0
     },
     {
-        "name":"",
-        "image": "/sneakers/",
+        "name":"Air Jordan 1 Green Glow",
+        "image": "/sneakers/greenglow.png",
         "price": 0.0
     }
 ]
