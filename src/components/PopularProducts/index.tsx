@@ -1,4 +1,3 @@
-import Product from "../Product";
 import sneakers from "../../data/sneakers.json";
 import Image from "next/image";
 
