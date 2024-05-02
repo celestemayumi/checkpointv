@@ -22,25 +22,25 @@
         "name":"Nike Dunk Low Clear Jade",
         "image": "/sneakers/clearjade.png",
         "price": 0.0,
-        "brand": "other"
+        "brand": "dunk"
     },
     {
         "name":"Air Jordan 4 Deep Royal Blue",
         "image": "/sneakers/deeproyalblue.png",
         "price": 0.0,
-        "brand": "other"
+        "brand": "jordan"
     },
     {
         "name":"Rayssa Leax x Nike Dunk",
         "image": "/sneakers/rayssaleal.png",
         "price": 0.0,
-        "brand": "other"
+        "brand": "dunk"
     },
     {
         "name":"Air Jordan 1 Green Glow",
         "image": "/sneakers/greenglow.png",
         "price": 0.0,
-        "brand": "other"
+        "brand": "jordan"
     },
     {
         "name":"Tênis Nike Mac Attack SP x Travis Scott Cactus Mac",
@@ -49,21 +49,64 @@
         "brand": "other"
     },
     {
-        "name":"Air Jordan 1 Green Glow",
-        "image": "/sneakers/greenglow.png",
+        "name":"Campus 00s Black",
+        "image": "/sneakers/campus00.png",
         "price": 0.0,
         "brand": "other"
     },
     {
-        "name":"Air Jordan 1 Green Glow",
-        "image": "/sneakers/greenglow.png",
+        "name":"Campus 00s Grey",
+        "image": "/sneakers/campus00grey.png",
         "price": 0.0,
         "brand": "other"
     },
     {
-        "name":"Air Jordan 1 Green Glow",
-        "image": "/sneakers/greenglow.png",
+        "name":"Nike Dunk Court Purple",
+        "image": "/sneakers/courtpurple.png",
+        "price": 0.0,
+        "brand": "dunk"
+    },
+    {
+        "name":"Nike Dunk Lightbone",
+        "image": "/sneakers/lightbone.png",
+        "price": 0.0,
+        "brand": "dunk"
+    },
+    {
+        "name":"New Balance 1000 Silver Metallic",
+        "image": "/sneakers/silvermetallic.png",
+        "price": 0.0,
+        "brand": "other"
+    },
+    {
+        "name":"Nike Dunk Valentines Day 2024",
+        "image": "/sneakers/valentinesday.png",
+        "price": 0.0,
+        "brand": "dunk"
+    },
+    {
+        "name":"Air Jordan 4 Black Cat",
+        "image": "/sneakers/blackcat.png",
+        "price": 0.0,
+        "brand": "jordan"
+    },
+    {
+        "name":"Air Jordan 1 Artisanal Red",
+        "image": "/sneakers/artisanalred.png",
+        "price": 0.0,
+        "brand": "jordan"
+    },
+    {
+        "name":"Air Jordan 1 Retro High OG Craft Ivory",
+        "image": "/sneakers/craftivory.png",
+        "price": 0.0,
+        "brand": "jordan"
+    },
+    {
+        "name":"Yeezy Slide Bone",
+        "image": "/sneakers/slide.png",
         "price": 0.0,
         "brand": "other"
     }
+
 ]
