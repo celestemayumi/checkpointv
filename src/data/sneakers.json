@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Adidas Campus 00s Core Black",
+        "image": "/sneakers/campus.png",
+        "price": 799.0
+    },
+    {
+        "name":"Nike Dunk Strangelove",
+        "image": "/sneakers/strangelove.png",
+        "price": 0.0
+    },
+    {
+        "name":"Air Jordan 4 Black Cat",
+        "image": "/sneakers/blackcat.png",
+        "price": 0.0
+    },
+    {
+        "name":"",
+        "image": "/sneakers/",
+        "price": 0.0
+    },
+    {
+        "name":"",
+        "image": "/sneakers/",
+        "price": 0.0
+    },
+    {
+        "name":"",
+        "image": "/sneakers/",
+        "price": 0.0
+    },
+    {
+        "name":"",
+        "image": "/sneakers/",
+        "price": 0.0
+    }
+]

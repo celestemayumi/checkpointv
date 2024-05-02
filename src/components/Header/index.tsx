@@ -1,10 +1,11 @@
 import Image from "next/image";
+import './styles.css'
 
 const Header = ()=>{
     return(
-        <header className="flex items-center px-7 py-5 justify-between border-b">
+        <header className="flex items-center px-7 py-5 justify-between border-b montserrat">
             <div className="flex">
-                <h1 className="text-5xl">HEAT</h1>
+                <h1 className="text-5xl kanit">HEAT</h1>
                 <Image
                 src= '/fogo.png'
                 width={50}
