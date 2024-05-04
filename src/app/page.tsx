@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <HeroSection/>
       <PopularProducts/>
-      <Footer/>
+      
     </main>
   );
 }
